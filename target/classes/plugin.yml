@@ -1,0 +1,4 @@
+name: BungeeEventEmitterPlugin
+main: com.simpleduino.bungeeeventemitter.BungeeEventEmitterPlugin
+version: 1.0
+author: Gunlek
